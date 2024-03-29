@@ -1,6 +1,6 @@
 
 (specifications)=
-### Specifications
+### Specs
 This is a list of requisite features for a tutorial authoring system.
 
 - Carriage return / line wrap
