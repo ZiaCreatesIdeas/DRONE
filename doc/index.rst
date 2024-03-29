@@ -10,7 +10,7 @@ Basics
 .. toctree::
    :maxdepth: 2
 
-   specifications.md
+   INav.md
    installation.rst
    learn_myst.md
    myst-nb.md
