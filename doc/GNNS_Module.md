@@ -11,6 +11,7 @@ This section covers how GPS and Magnetometers work to give position.
 ![Cube Satellite](https://upload.wikimedia.org/wikipedia/commons/a/a7/Two_3U_CubeSats.jpg "Cube Satellite")
 
 Test
+Twos
 
 :::{card} Basics: GPS Explained
 
